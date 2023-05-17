@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+datetime
+scipy
+pylab
+statsmodels
+pickle
+pandas-dq
+IPython
+pandas-profiling
+scikit-learn
